@@ -17,19 +17,15 @@ Este é um simples script em Python para medir a velocidade da sua conexão com 
    git clone https://github.com/seu-usuario/nome-do-repositorio.git
 
 2. Execute o script test_velocidade_internet.py:
-
-  ```bash
     python test_velocidade_internet.py
-    
+
 
 Observe os resultados exibidos no terminal.
 
 3. Requisitos:
 - Python 3.x
 
-- Biblioteca speedtest instalável via:
-  ```bash
-    pip install speedtest-cli
+- Biblioteca speedtest instalável via: ```pip install speedtest-cli
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
