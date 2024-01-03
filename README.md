@@ -20,6 +20,7 @@ Este é um simples script em Python para medir a velocidade da sua conexão com 
 
   ```bash
     python test_velocidade_internet.py
+    
 
 Observe os resultados exibidos no terminal.
 
