@@ -25,7 +25,7 @@ Observe os resultados exibidos no terminal.
 3. Requisitos:
 - Python 3.x
 
-- Biblioteca speedtest instalável via: ```pip install speedtest-cli
+- Biblioteca speedtest instalável via: pip install speedtest-cli
 
 ## Contribuições
 Contribuições são bem-vindas! Sinta-se à vontade para abrir problemas ou enviar pull requests.
